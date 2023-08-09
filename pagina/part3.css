@@ -1,0 +1,36 @@
+.content
+{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    padding: 100px 0;
+}
+.content a
+{
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    font-size: 3em;
+    font-weight: 700;
+    top: -40px;
+    left: 80px;
+}
+.content h2
+{
+    font-size: 3.5em;
+    text-align: center;
+    color: #fff;
+}
+.content h3
+{
+    font-size: 2em;
+    text-align: center;
+    color: #fff;
+}
+.content pre
+{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 1em;
+    color: #fff;
+}

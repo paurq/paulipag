@@ -1,0 +1,31 @@
+.check a 
+{
+    text-decoration: none;
+    color: #fff;
+}
+.check a:hover
+{
+    text-decoration: underline;
+}
+.login .button
+{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+}
+button
+{
+    width: 100%;
+    height: 40px;
+    background-color: crimson;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 7px;
+    color: #fff;
+}
+button:active
+{
+    font-size: 25px;
+}
