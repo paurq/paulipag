@@ -1,0 +1,19 @@
+.login .sign-up
+{
+    display: flex;
+    justify-content: center;
+}
+.login .sign-up a
+{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.login .sign-up p
+{
+    color: #fff;
+}
+.sign-up a:hover
+{
+    text-decoration: underline;
+}

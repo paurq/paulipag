@@ -1,0 +1,34 @@
+.login .input .input1
+{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+}
+::placeholder
+{
+    color: #fff;
+    font-size: 18px;
+}
+.login .input i
+{
+    position: relative;
+    right: -370px;
+    bottom: 27px;
+    color: #fff;
+}
+.check
+{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    color: #fff;
+}
